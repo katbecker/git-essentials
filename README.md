@@ -99,6 +99,7 @@ You can now go to your forked repo on github.com and take a look at your commit.
 ## Useful Links and Resources
 - [ProGit - Full PDF book](https://github.s3.amazonaws.com/media/progit.en.pdf)
 - [Git Cheat Sheet - PDF with most used commands](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
+- [Git Hub Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 - [Code School - Interactive 15-minute tutorial, very useful for beginners](https://try.github.io/levels/1/challenges/1)
 - [Youtube - Derek Banas - Git Video Tutorials Playlist](https://www.youtube.com/playlist?list=PLGLfVvz_LVvQHO1PfyscjIPkNJjgHsLyH)
 - [Markdown Tutorial - Interactive tutorial to learn Markdown (the standard used to format readme files)](http://www.markdowntutorial.com/)
